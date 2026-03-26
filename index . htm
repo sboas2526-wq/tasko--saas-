@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Minha Loja</title>
+</head>
+<body style="background:black; color:white; text-align:center;">
+  <h1>Minha Loja Online 🔥</h1>
+  <p>Bem-vindo ao meu site</p>
+  <button>Comprar agora</button>
+</body>
+</html>
